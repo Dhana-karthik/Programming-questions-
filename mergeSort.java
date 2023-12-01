@@ -1,5 +1,5 @@
 import java.util.*;
-public class MergeSort
+public class mergeSort
 {
     public static void main(String args[])
     {
