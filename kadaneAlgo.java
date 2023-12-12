@@ -4,7 +4,7 @@ import java.io.*;
 
 /*find the maximum sum of sub array in time complexity of O(n) and no extra space 0(1)*/
 static import java.lang.Character.*;
-public class {
+public class kadaneAlgo {
 
    public static void main(String[] args) {
         
