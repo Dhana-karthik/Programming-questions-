@@ -1,5 +1,5 @@
 import java.util.*;
-public class SelectionSort
+public class selectionSort
 {
 
     public static void main(String[] args)

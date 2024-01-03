@@ -1,6 +1,6 @@
 import java.util.*;
 import java.math.*;
-import static java.lang.character.*;
+
 import java.lang.*;
 
 public class duplicateLetterRemover{
