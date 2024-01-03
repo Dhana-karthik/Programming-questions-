@@ -16,8 +16,8 @@ public static void  main(String[] arg ){
     else    
      System.out.println("not palindrome");    
 
+// i have edited this file in vscode if u see this in github u pushed this file sucessfully
 
-     
 }
 
 }
