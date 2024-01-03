@@ -16,6 +16,8 @@ public static void  main(String[] arg ){
     else    
      System.out.println("not palindrome");    
 
+
+     
 }
 
 }
